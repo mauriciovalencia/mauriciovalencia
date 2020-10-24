@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mauriciovalencia/mauriciovalencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hellooou! <img src="https://raw.githubusercontent.com/mauriciovalencia/mauriciovalencia/master/helloou.gif" width="30px">
+
+Just a engineer.
+
+## GitHub Stats
+
+<a href="https://github.com/mauriciovalencia/mauriciovalencia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciovalencia&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/mauriciovalencia/mauriciovalencia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mauriciovalencia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
