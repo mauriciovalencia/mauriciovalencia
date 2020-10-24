@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hellooou! <img src="https://raw.githubusercontent.com/mauriciovalencia/mauriciovalencia/master/helloou.gif" width="30px">
+# Hellooou! <img src="https://raw.githubusercontent.com/mauriciovalencia/mauriciovalencia/main/helloou.gif" width="30px">
 
 Just a engineer.
 
